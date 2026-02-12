@@ -1,4 +1,5 @@
-print("this is doneshwari first class of codegnan")
-print("today I learn intro of python")
+print("Iam Doneshwari first class of codegnan")
+print("today I learn introduction of python")
 print("python features ")
-python("Dynamicallly ty")
+python("Dynamicallly type")
+
