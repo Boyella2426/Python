@@ -82,16 +82,6 @@ for num in range (1,n+1):
 
 """
 
-"""=============================================================================  PRACTICE  ====================================================================="""
-
-#print 1 to 100 numbers
-# print even numbers between 10 to 40
-# print odd numbersbetween  1 to 50
-# find which even or odd from lodt of numbers
-#sum of even numbers upto 'n'
-
-
-#print 1 to 100 numbers:
 
 
 
